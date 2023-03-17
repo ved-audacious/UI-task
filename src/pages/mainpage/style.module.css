@@ -1,0 +1,92 @@
+.mainContainer{
+    background-color: #F3F3F9;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.subContainer{
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 128px;
+    height: 400px;
+    width: 450px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+ h2{ 
+    color:#1D3153 ;
+    padding-top: 30px;
+    margin-left: 60px;
+ }
+
+p{
+    margin-left: 170px;
+    color: #919AAB;
+}
+h4{
+    color: #1D3153;
+    margin-left: 170px;
+}
+.image{
+    height: 100px;
+    width: 100px;
+ border-radius:61px ; 
+ left: 500px;
+ position: absolute;
+}
+
+.imageCON{
+    display: flex;
+
+}
+.spanX{
+    margin-right: 30px;
+    float: right;
+    position: absolute;
+}
+.title{
+    margin-top: 47px;
+    margin-left: 53px;
+}
+.passbox{
+    margin-left: 53px;
+}
+
+.button22{
+    margin-top: 10px;
+    display: inline-flex;
+    justify-content: space-between;
+    /* background-color: aqua; */
+    width: 100%;
+
+    
+    
+}
+.buttonToggle{
+    margin-left: 53px;
+    color: #1D3153;
+}
+
+
+
+.buttonC{
+    display: flex;
+    padding: 1px;
+    background-color: #1D3153;
+    color: white;
+    border-radius: 6px;
+    position: absolute;
+    left: 14.3rem;
+    top: 11rem;
+}
+
+.reset{
+    margin-top: 20px;
+    margin-left: 53px;
+    color: #1D3153;
+}
+
